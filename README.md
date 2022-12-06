@@ -1,0 +1,1 @@
+A simple website using the information learnt in the Odin Project foundations series.
