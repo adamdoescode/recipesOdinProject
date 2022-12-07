@@ -1,0 +1,28 @@
+* {
+    background-color: rgb(185, 103, 185);
+}
+
+h1 {
+    font-weight: 900;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 2em;
+
+}
+
+ol {
+    font-size: 1em;
+    background-color: rgb(194, 120, 219);
+}
+
+#ingredients ul{
+    font-size: 1em;
+    background-color: rgb(194, 120, 219);
+    font-family: monospace;
+}
+
+.intro-text p{
+    font-size: 1em;
+    background-color: rgb(194, 120, 219);
+    font-family: monospace;
+    text-align: justify;
+}
